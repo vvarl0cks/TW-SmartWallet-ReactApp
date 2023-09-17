@@ -1,4 +1,4 @@
-## Integrating Smart Wallet in a React App   
+## Integrating Smart Wallet in a React App using Thirdweb SDK   
 
 A smart contract wallet is a type of non-custodial web3 wallet that uses smart contracts to operate and manage assets. By adding logic to the smart contract's code, smart contract wallets unlock powerful new features:   
 
